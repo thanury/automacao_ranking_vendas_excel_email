@@ -20,7 +20,7 @@ Este projeto automatiza a leitura de planilhas de vendas de diversas lojas, calc
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/automacao_ranking_vendas_excel_email.git
+git clone https://github.com/thanury/automacao_ranking_vendas_excel_email.git
 cd automacao_ranking_vendas_excel_email
 ```
 
